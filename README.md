@@ -2,10 +2,6 @@
 
 **Vivid** is a multi-functional Discord bot designed to enhance your server's experience. It comes with various features such as moderation commands, fun commands, and utility commands to make your Discord server more engaging and enjoyable.
 
-## Demo
-
-You can add Vivid to your server using the following [link](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot).
-
 ## Features 🌟
 
 - **Moderation Commands**
