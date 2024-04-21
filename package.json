@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^12.5.3",
+    "qr-image": "^3.2.0"
+  },
+  "name": "vivid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
